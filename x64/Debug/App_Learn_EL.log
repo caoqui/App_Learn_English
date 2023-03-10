@@ -1,0 +1,3 @@
+﻿  App_Learn_EL.cpp
+D:\FILE_CODE\App\App_Learn_EL\App_Learn_EL.cpp(370,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  App_Learn_EL.vcxproj -> D:\FILE_CODE\App\x64\Debug\App_Learn_EL.exe
