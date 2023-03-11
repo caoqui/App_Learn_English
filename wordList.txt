@@ -1,2 +1,74 @@
- abide by (v) : tuân theo, chịu theo #
- agreement (n) agree (v) agreeable (adj) : sự thỏa thuận (n) (v) (adj) #
+abide by (v) : tuân theo, chịu theo #
+agreement (n) agree (v) agreeable (adj) : sự thỏa thuận (n) (v) (adj) #
+assurance (n) : sự bảo đảm, chắc chắn #
+determine (v) : giải quyết vấn đề #
+engage (v) : thuê mướn #
+establish (v) : thành lập #
+obligate (v) obligation (n) obligatory (adj) : bắt buộc, ép buộc (v) (n) (adj) #
+party (n) : nhóm làm việc chung #
+provision (n) provider (n) : sự cung cấp (n) (n) #
+resolve (v) : kiên quyết, quyết định #
+specify (v) specification (n) specific (adj) : định rõ, ghi rõ (v) (n) (adj) #
+attract (v) attraction (n) attractive (adj) : hấp dẫn, thu hút (v) (n) (adj) #
+compare (v) comparison (n) comparable (adj) : so sánh (v) (n) (adj) #
+consume (v) consumer (n) consumable (adj) : tiêu dùng, sử dụng (v) (n) (adj) #
+convince (v) : thuyết phục #
+current (adj) : đang thịnh hành #
+fad (n) : mốt nhất thời #
+inspire (v) : truyền cảm hứng #
+productive (adj) : sản xuất, thu hoạch #
+characteristic (adj) : nét đặc trưng, đặc điểm #
+consequence (n) : hậu quả, kết quả #
+consider (v) consideration (n) considerable (adj) : cân nhắc, suy nghĩ (v) (n) (adj) #
+cover (v) : bảo hộ, kiểm sót #
+expire (v) : kết thúc, hết hiệu lực #
+frequently (adv) : thường xuyên #
+imply (v) : thường xuyên, nói bóng gió #
+reputation (n) reputable (adj) reputed (adj) : sự nổi tiếng, danh tiếng (n) (adj) (adj) #
+vary (v) : thay đổi, bất đồng #
+demonstrate (v) demonstration (n) demonstrative (adj) : chứng minh, giải thích (v) (n) (adj) #
+evaluate (v) evaluation (n) evaluator (n) : định giá, định giá (v) (n) (n) #
+gather (v) : tổng kết, thu thập ý kiến #
+offer (v) : đề nghị, gợi ý #
+primary (adj) : điều quan trọng nhất #
+strategy (n) strategize (n) strategic (adj) : dự trù, vạch kế hoạch (n) (n) (adj) #
+substitute (v) : lựa chọn thay thế #
+accommpdate (v) accommodation (n) accommdating (adj) : cung chấp cho sự cần thiệt (v) (n) (adj) #
+arrangement (n) : sự tổ chức sắp xếp #
+association (n) : sự liên kết, kết hợp #
+attend (v) attendee (n) attendance (n) : rất chú tâm (v) (n) (n) #
+get in touch (v) : liên lạc với #
+hold (v) : dàn xếp #
+overcrowded (adj) : chất nịc, đông nghịt #
+register (v) registration (n) : ghi vào sổ (v) (n) #
+session (n) : buổi họp, phiên họp #
+take part in (v) : tham dự #
+access (v) access (n) accessible (adj) : truy cập (v) (n) (adj) #
+allocate (v) : chỉ định #
+compatible (adj) : tương thích #
+duplicate (v) duplication (n) : tạo bản sao (v) (n) #
+fail (v) dailure (n) fallible (adj) : thất bại (v) (n) (adj) #
+figure out (v) : suy ra #
+ignore (v) : lờ đi, không để ý #
+affordable (adj) : phải chăng, vừa phải #
+be in charge of (v) : đứng đầu, thường trực #
+capacity (n) : sức chứa #
+durable (adj) : bền bỉ #
+initiative (n) initiate (v) initiation (n) : làm đầu tàu (n) (v) (n) #
+physical (adj) : vật chất #
+provider (n) provide (v) provision (n) : nhà cung cấp (n) (v) (n) #
+recur (v) recurrence (n) recurring (adj) : lặp lại, tái diễn (v) (n) (adj) #
+reduction (n) reduce (v) reducible (adj) : sự thu nhỏ, giảm (n) (v) (adj) #
+stay on top of (v) : xếp hạng đầu #
+appreciate (v) appreciation (n) appreciated (adj) : thông cảm (v) (n) (adj) #
+be exposed to (v) : bị phơi bày #
+bring in (v) : thuê, mướn #
+casual (adj) : tình cờ, ngẫu nhiên #
+code (n) : luật, quy tắc #
+glimpse (n) : cái nhìn lướt qua #
+made of (v) : bao gồm #
+out of (adj) : hết, cạn kiệt #
+outdated (adj) : hết hạn sử dụng #
+practice (n) practice (v) practical (adj) : sự thực hành (n) (v) (adj) #
+reinforce (v) reinforcement (n) : tăng cường, củng cố (v) (n) #
+ verbal (adj) verbalize (v) verbally (adv) : bằng lời nói (adj) (v) (adv) #
