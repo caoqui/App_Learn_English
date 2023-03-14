@@ -71,4 +71,74 @@ out of (adj) : hết, cạn kiệt #
 outdated (adj) : hết hạn sử dụng #
 practice (n) practice (v) practical (adj) : sự thực hành (n) (v) (adj) #
 reinforce (v) reinforcement (n) : tăng cường, củng cố (v) (n) #
- verbal (adj) verbalize (v) verbally (adv) : bằng lời nói (adj) (v) (adv) #
+verbal (adj) verbalize (v) verbally (adv) : bằng lời nói (adj) (v) (adv) #
+facilitate (v) : tạo điều kiện, đơn giản #
+popularity (n) popularize (v) popular (adj) : sự phổ biến (n) (v) (adj) #
+revolution (n) revolutionized (v)  revolutionary (adj) : sự xoay vòng (n) (v) (adj) #
+skills (n) : kỹ năng kỹ sảo #
+technical (adj) : chuyên môn #
+assemble (v) : tập hợp, thu thập #
+beforehand (adv) : trước, sớm #
+complicated (adj) complication (n) : phứt tạp (adj) (n) #
+courier (n) : người đưa thư #
+express (adj) : nhanh chóng #
+fold (v) : gấp lại #
+petition (n) : đơn xin, kiến nghị #
+proof (v) : chứng minh #
+proofreader (n) : bằng chứng #
+registered (adj) registration (n) : đăng ký (adj) (n) #
+revise (v) : sửa lại #
+abundant (adj) : nhiều quá, thừa #
+accomplishment (n) accomplish (v) accomplished (adj) : hoàn thành, đạt được (n) (v) (adj) #
+bring together (v) : nhóm lại, họp lại #
+com up with (v) : ý định #
+commensurate (adj) : bằng kích cỡ với #
+match (n) : vừa #
+qualifications (n) qualify (v) qualified (adj) : năng lực (n) (v) (adj) #
+recruit (v) : tuyển dụng #
+recruitment (n) : sự tuyển dụng #
+submit (v) submission (n) submittal (n) : sự biện hộ (v) (n) (n) #
+time consuming (adj) : cần nhiều thời gian #
+ability (n) : khả năng #
+apply (v) applicant (n) application (n) : xin việc (v) (n) (n) #
+background (n) : kinh nghiệm #
+be ready for (v) : sẵn sàng cho #
+confidence (n) confident (adj) confidently (adv) : tự tin (n) (adj) (adv) #
+expert (n) expertise (n) expert (adj) : thành thạo, tinh thông (n) (n) (adj) #
+follow up (v) : tiếp tục, tiếp theo #
+hesitate (v) : do dự, lưỡng lự #
+present (v) presentation (n) presentable (adj) : đưa ra, bày tỏ, giới thiệu (v) (n) (adj) #
+weakness (n) : nhược điểm, điểm yếu #
+conduct (v) : cư xử #
+generate (v) : tạo ra, sinh ra #
+hire (v) hire (n) : thuê, mướn (v) (n) #
+keep up with (v) : theo kịp, ngang hàng với #
+look up to (v) : khâm phục, ngưỡng mộ #
+mentor (n) : người cố vấn #
+on track (adj) : theo dõi #
+reject (v) rejection (n) : từ chối, loại bỏ (v) (n) #
+succeed (v)successful (adj) success (n) : thành công (v) (adj) (n) #
+basis (n) : nền tảng, cơ sở #
+be aware of (v) : am hiểu về #
+benefits (n) : tiền trợ cấp #
+benefit (v) beneficial (adj) : giúp ích cho (v) (adj) #
+compensate (v) : đền bù, bồi thường #
+compensation (n) compensatory (adj) : khoản bồi thường (n) (adj) #
+delicate (adj) : nhạy bén #
+eligible (adj) : đủ tư cách #
+flexible (adj) : dễ sai khiến, dễ uốn nắn #
+negotiate (v) negotiation (n) negotiator (n) : đàm phán, thương lượng (v) (n) (n) #
+raise (n) : sự tăng lương #
+vested (adj) : được quyền, được phép #
+wage (n) : tiền công #
+achieve (v) achievement (n) achiever (n) : đạt được, giành được (v) (n) (n) #
+contribute (v) contribution (n) contributor (n) : đóng góp, góp phần (v) (n) (n) #
+ dedication (n) dedicate (v) dedicated (adj) : sự cống hiến (n) (v) (adj) #
+ look forward to (v) : háo hức chờ mong #
+ looked to (v) : nhờ vào, trông cậy vào #
+ loyal (adj) : trung thành #
+ merit (n) : công lao #
+ productive (adj) : hữu ích, có hiệu quả #
+ obvious (adj) : rõ ràng, rành mạnh #
+ promote (v) promotion (n) promoter (n) : thăng chức (v) (n) (n) #
+ recognition (n) : sự công nhận, khen ngợi #
